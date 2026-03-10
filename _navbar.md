@@ -1,0 +1,2 @@
+* [Home](/)
+* [Publications](/publications/)
