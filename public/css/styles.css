@@ -166,7 +166,7 @@ body {
 @media (max-width: 480px) {
   [data-page*="cv"] .sidebar,
   [data-page*="cv"] .sidebar-toggle {
-    display: none;
+    display: flex;
   }
 
   [data-page*="cv"] .content {
