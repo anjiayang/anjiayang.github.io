@@ -51,7 +51,7 @@
 
     <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
 
-    Cheng Huang, <span class="author-self">Anjia Yang</span>*, Dongxiao Liu, Rongxing Lu, Xuemin Shen
+    Cheng Huang, <span class="author-self">Anjia Yang</span>, Dongxiao Liu, Rongxing Lu, Xuemin Shen
 
     IEEE Transactions on Dependable and Secure Computing, in press, 2025
 
