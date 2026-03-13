@@ -36,7 +36,7 @@
 
     IEEE Transactions on Dependable and Secure Computing, 2026
 
-  - **基于安全多方计算的隐私保护异构联邦学习参与方选择**
+ - **基于安全多方计算的隐私保护异构联邦学习参与方选择**
 
     <div class="pub-type journal">Journal</div>
 
@@ -51,8 +51,8 @@
    Wenjie Yang, Yu Cai, Futai Zhang and <span class="author-self">Anjia Yang</span>
 
     IEEE Transactions on Mobile Computing, 2026
-  
-  - **A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services**
+
+- **A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services**
 
     <div class="pub-type journal">Journal</div> <span class="impact-badge">KBS</span>
 
