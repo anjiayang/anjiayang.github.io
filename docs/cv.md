@@ -283,10 +283,11 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
         </div>
         <div class="cv-service-meta">2026.08</div>
       </div>
-      <div class="cv-service-role">TPC Member</div>
-      <div class="cv-service-main">
-        <div class="cv-service-title">ACSAC 2026</div>
-        <div class="cv-service-subtitle">Los Angeles, California, USA</div>
+      <div class="cv-service-item">
+       <div class="cv-service-role">TPC Member</div>
+       <div class="cv-service-main">
+         <div class="cv-service-title">ACSAC 2026</div>
+         <div class="cv-service-subtitle">Los Angeles, California, USA</div>
         </div>
         <div class="cv-service-meta">2026.12</div>
       </div>
