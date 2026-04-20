@@ -49,6 +49,7 @@
     <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
 
     Wenjie Yang, Yu Cai, Qunhao Ou, Futai Zhang, and <span class="author-self">Anjia Yang</span>
+    
     IEEE Internet of Things Journal, 2026
 
  - **基于安全多方计算的隐私保护异构联邦学习参与方选择**
