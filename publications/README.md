@@ -35,6 +35,21 @@
     Huang Zeng, <span class="author-self">Anjia Yang</span>, Jian Weng, Min-Rong Chen, Fengjun Xiao, Zilin Liu, and Yi Liu
 
     IEEE Transactions on Dependable and Secure Computing, 2026
+  
+- **PDTE: Outsourced Private Decision Tree Evaluation for Large Trees with Sublinear Communication**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+
+   Dingcheng Li, Kai He, Jia-Nan Liu, <span class="author-self">Anjia Yang</span>, Xueqiao Liu, and Jian Weng
+
+    IEEE Transactions on Services Computing, 2026
+  
+- **Forward-Secure Identity-Based Signcryption with Equality Test for Social Recommendation on Smart IoT Devices**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+
+    Wenjie Yang, Yu Cai, Qunhao Ou, Futai Zhang, and <span class="author-self">Anjia Yang</span>
+    IEEE Internet of Things Journal, 2026
 
  - **基于安全多方计算的隐私保护异构联邦学习参与方选择**
 
