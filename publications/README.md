@@ -54,7 +54,7 @@
   
 - **PDTE: Outsourced Private Decision Tree Evaluation for Large Trees with Sublinear Communication**
 
-    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TSC</span>
 
    Dingcheng Li, Kai He, Jia-Nan Liu, <span class="author-self">Anjia Yang</span>, Xueqiao Liu, and Jian Weng
 
@@ -62,7 +62,7 @@
   
 - **Forward-Secure Identity-Based Signcryption with Equality Test for Social Recommendation on Smart IoT Devices**
 
-    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">IoTJ</span>
 
     Wenjie Yang, Yu Cai, Qunhao Ou, Futai Zhang, and <span class="author-self">Anjia Yang</span>
     
@@ -94,7 +94,7 @@
   
 - **FLABR: Anonymous and Byzantine-Robust Federated Learning Based on Secure Multi-Party Computation**
 
-    <div class="pub-type conference">Conference</div> <span class="impact-badge">ICICS 2025</span>
+    <div class="pub-type conference">Conference</div> <span class="impact-badge">SciSec 2026</span>
 
    Qingfu Pei, Tengfei Liu, <span class="author-self">Anjia Yang</span>, Yi Liu, and Hao Zhang 
 
