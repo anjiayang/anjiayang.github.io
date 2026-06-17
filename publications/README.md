@@ -28,13 +28,29 @@
 
 <div class="year-divider"><span>2026</span></div>
 
+- **Dual-Server Public Key Authenticated Searchable Encryption with Constant Trapdoor against Inside Keyword Guessing Attacks**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TIFS</span>
+
+    Wenjie Yang, Shujie Lin, Futai Zhang,  and <span class="author-self">Anjia Yang</span>
+
+    IEEE Transactions on Information Forensics and Security, 2026
+  
 - **Publicly Auditable Federated Learning with Privacy and Byzantine Robustness**
 
     <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
 
     Huang Zeng, <span class="author-self">Anjia Yang</span>, Jian Weng, Min-Rong Chen, Fengjun Xiao, Zilin Liu, and Yi Liu
 
-    IEEE Transactions on Dependable and Secure Computing, 2026
+    IEEE Transactions on Dependable and Secure Computing, vol. 23(1), pages 577-589, 2026
+
+ - **Two-Server Offline/Online Private Information Retrieval With Small Client Storage**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+
+    Cheng Huang, <span class="author-self">Anjia Yang</span>, Dongxiao Liu, Rongxing Lu, Xuemin Shen
+
+    IEEE Transactions on Dependable and Secure Computing, vol. 23(2), pages 4323-4339, 2026
   
 - **PDTE: Outsourced Private Decision Tree Evaluation for Large Trees with Sublinear Communication**
 
@@ -66,7 +82,7 @@
 
    Wenjie Yang, Yu Cai, Futai Zhang and <span class="author-self">Anjia Yang</span>
 
-    IEEE Transactions on Mobile Computing, 2026
+    IEEE Transactions on Mobile Computing, vol. 25(7), pages 10818-10832, 2026
 
 - **A Practical and Privacy-Preserving Framework for Real-World Large Language Model Services**
 
@@ -74,8 +90,16 @@
 
     Xueping Liao, Yu Mao, Wei Liu, and <span class="author-self">Anjia Yang</span>
 
-    Knowledge-Based Systems, 2026
-    
+    Knowledge-Based Systems, vol. 337, Article 115347:1-21, 2026
+  
+- **FLABR: Anonymous and Byzantine-Robust Federated Learning Based on Secure Multi-Party Computation**
+
+    <div class="pub-type conference">Conference</div> <span class="impact-badge">ICICS 2025</span>
+
+   Qingfu Pei, Tengfei Liu, <span class="author-self">Anjia Yang</span>, Yi Liu, and Hao Zhang 
+
+    The 8th International Conference on Science of Cyber Security (SciSec 2026), Beijing, China, May 29-31, 2026
+  
 
 <div class="year-divider"><span>2025</span></div>
 
@@ -85,15 +109,6 @@
     **杨安家**，李明，余宏华，曹江莲
 
     清华大学出版社, 2025
-
-
-- **Two-Server Offline/Online Private Information Retrieval With Small Client Storage**
-
-    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
-
-    Cheng Huang, <span class="author-self">Anjia Yang</span>, Dongxiao Liu, Rongxing Lu, Xuemin Shen
-
-    IEEE Transactions on Dependable and Secure Computing, in press, 2025
 
 - **The Lives of Others: Snooping on Smartphone Usage Behaviors via Attention-Enabled Multi-Channel Spatiotemporal Information Fusion**
 
@@ -109,7 +124,7 @@
 
     Lulu Han, Weiqi Luo, <span class="author-self">Anjia Yang</span>, Yudan Cheng, Junzuo Lai, Fang Han, Jiaquan Shen, Yongxin Zhang
 
-    Computer Networks, 2025
+    Computer Networks, vol. 264, article 111243:1-13, 2025
 
 - **LieCConv: An Image Classification Algorithm Based on Lie Group Convolutional Neural Network**
 
@@ -133,7 +148,7 @@
 
     Wenjie Yang, Junzhe Fan, Futai Zhang, <span class="author-self">Anjia Yang</span>, Zhiquan Liu
 
-    IEEE Internet of Things Journal, in press, 2025
+    IEEE Internet of Things Journal, vol. 12(24), pages 54538-54551, 2025
 
 - **Zero-Knowledge Protocols with PVC Security: Striking the Balance Between Security and Efficiency**
 
