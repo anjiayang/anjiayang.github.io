@@ -28,6 +28,14 @@
 
 <div class="year-divider"><span>2026</span></div>
 
+- **Accountable-Authority Identity-based Matchmaking Encryption and Its Application**
+
+    <div class="pub-type journal">Journal</div> <span class="impact-badge">TDSC</span>
+
+   Axin Wu, Weiqi Luo, <span class="author-self">Anjia Yang</span>, Yinghui Zhang, Yuer Yang, and Feixiang Zhao 
+
+    IEEE Transactions on Dependable and Secure Computing, 2026
+  
 - **Dual-Server Public Key Authenticated Searchable Encryption with Constant Trapdoor against Inside Keyword Guessing Attacks**
 
     <div class="pub-type journal">Journal</div> <span class="impact-badge">TIFS</span>
