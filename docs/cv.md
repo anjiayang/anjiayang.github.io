@@ -185,20 +185,24 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
   <div class="cv-student-group">
     <div class="cv-student-heading">Current Students</div>
     <div class="cv-student-list">
+      <div class="cv-student-item"><span class="cv-student-name">Tengfei Liu</span><span class="cv-student-meta">Ph.D · 2026-</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Wenfeng Huang</span><span class="cv-student-meta">Ph.D · 2025-</span></div>
+      <div class="cv-student-item"><span class="cv-student-name">Yangtao Ou</span><span class="cv-student-meta">MSc · 2026-</span></div>
+      <div class="cv-student-item"><span class="cv-student-name">Chuanwen Peng</span><span class="cv-student-meta">MSc · 2026-</span></div>
+      <div class="cv-student-item"><span class="cv-student-name">Jiaqi Zhao</span><span class="cv-student-meta">MSc · 2026-</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Guang Yang</span><span class="cv-student-meta">MSc · 2025-</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Yu Dai</span><span class="cv-student-meta">MSc · 2025-</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Shenming Wei</span><span class="cv-student-meta">MSc · 2025-</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Hongyuan Zhang</span><span class="cv-student-meta">MSc · 2024-</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Haorui Gui</span><span class="cv-student-meta">MSc · 2024-</span></div>
-      <div class="cv-student-item"><span class="cv-student-name">Tengfei Liu</span><span class="cv-student-meta">MSc · 2023-</span></div>
-      <div class="cv-student-item"><span class="cv-student-name">Shumei Liu</span><span class="cv-student-meta">MSc · 2023-</span></div>
     </div>
   </div>
 
   <div class="cv-student-group">
     <div class="cv-student-heading">Graduated Students</div>
     <div class="cv-student-list">
+      <div class="cv-student-item"><span class="cv-student-name">Tengfei Liu</span><span class="cv-student-meta">MSc · 2023-2026</span></div>
+      <div class="cv-student-item"><span class="cv-student-name">Shumei Liu</span><span class="cv-student-meta">MSc · 2023-2026</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Mingtian Zhang</span><span class="cv-student-meta">MSc · 2022-2025</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Yuan Chen</span><span class="cv-student-meta">MSc · 2022-2025</span></div>
       <div class="cv-student-item"><span class="cv-student-name">Zilin Liu</span><span class="cv-student-meta">MSc · 2021-2024</span></div>
