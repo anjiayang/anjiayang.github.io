@@ -7,6 +7,7 @@
         </div>
       </div>
       <div class="hero-info">
+        <div class="hero-eyebrow">Academic Homepage</div>
         <div class="hero-name">
           <span>Anjia </span>
           <span class="last">Yang</span>
@@ -25,23 +26,43 @@
           </div>
         </div> -->
         <div class="hero-cv">
-          <a href="https://scholar.google.com/citations?user=Dd7eS-UAAAAJ&hl=zh-CN" target="_blank" title="Google Scholar">谷歌学术</a>
-          <span class="divider">|</span>
-          <a class="recruit-link" href="#/students/">招生信息<span class="recruit-dot" aria-hidden="true"></span></a>
+          <a href="https://scholar.google.com/citations?user=Dd7eS-UAAAAJ&hl=zh-CN" target="_blank" title="Google Scholar">Google Scholar <span aria-hidden="true">↗</span></a>
+          <a href="mailto:anjiayang@gmail.com">联系我 <span aria-hidden="true">↗</span></a>
         </div>
       </div>
     </div>
   </div>
-  <button class="scroll-down-btn" onclick="document.getElementById('cv-page').scrollIntoView({ behavior: 'smooth' })" title="Scroll down">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <nav class="hero-directory" aria-label="栏目导航">
+    <a class="hero-directory-link" href="#/publications/">
+      <span class="hero-directory-en">Publications <span aria-hidden="true">↗</span></span>
+      <span class="hero-directory-title">论文成果</span>
+      <span class="hero-directory-description">论文列表与研究成果</span>
+    </a>
+    <a class="hero-directory-link" href="#/?id=students">
+      <span class="hero-directory-en">Students <span aria-hidden="true">↓</span></span>
+      <span class="hero-directory-title">学生信息</span>
+      <span class="hero-directory-description">在读学生与毕业校友</span>
+    </a>
+    <a class="hero-directory-link hero-directory-recruit" href="#/students/">
+      <span class="hero-directory-en">Join Us <span aria-hidden="true">↗</span></span>
+      <span class="hero-directory-title">招生信息</span>
+      <span class="hero-directory-description">硕士与博士招生、培养要求</span>
+    </a>
+    <a class="hero-directory-link" href="#/?id=selected-research-projects">
+      <span class="hero-directory-en">Research <span aria-hidden="true">↓</span></span>
+      <span class="hero-directory-title">科研项目</span>
+      <span class="hero-directory-description">研究方向与代表性项目</span>
+    </a>
+  </nav>
+  <a class="scroll-down-btn" href="#/?id=about-me">
+    <span>About me · 个人简介</span>
+    <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M6 9l6 6 6-6"/>
     </svg>
-  </button>
+  </a>
 </div>
 
 <div id="cv-page">
-
-<br>
 
 ## About Me
 
@@ -131,6 +152,18 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
 <div class="cv-projects">
   <div class="cv-project-card">
     <div class="cv-project-header">
+      <span class="cv-project-title">Research on Key Technologies in Blockchain-based Secure and Trustworthy Data Element Circulation</span>
+    </div>
+    <div class="cv-project-row">
+      <span class="cv-project-meta">Project Leader</span>
+      <span class="cv-project-date">2026 – 2029</span>
+    </div>
+    <div class="cv-project-support-row">
+      <span>National Natural Science Foundation of China</span>
+    </div>
+  </div>
+  <div class="cv-project-card">
+    <div class="cv-project-header">
       <span class="cv-project-title">Research on Key Technologies for Secure Storage of Power IoT Data</span>
     </div>
     <div class="cv-project-row">
@@ -162,7 +195,7 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
       <span class="cv-project-date">2021 – 2025</span>
     </div>
     <div class="cv-project-support-row">
-      <span>National Key R&amp;D Program of China · Grant 2021ZD0112802</span>
+      <span>National Key R&amp;D Program of China</span>
     </div>
   </div>
   <div class="cv-project-card">
@@ -174,7 +207,7 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
       <span class="cv-project-date">2021 – 2024</span>
     </div>
     <div class="cv-project-support-row">
-      <span>National Science Foundation of China · Grant 62072215</span>
+      <span>National Natural Science Foundation of China</span>
     </div>
   </div>
 </div>
