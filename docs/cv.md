@@ -305,6 +305,14 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
     <div class="cv-service-heading">Conference Service</div>
     <div class="cv-service-list">
       <div class="cv-service-item">
+        <div class="cv-service-role">TPC Member</div>
+        <div class="cv-service-main">
+          <div class="cv-service-title">IJCAI 2027</div>
+          <div class="cv-service-subtitle">Kyoto, Japan</div>
+        </div>
+        <div class="cv-service-meta">2027.08</div>
+      </div>
+      <div class="cv-service-item">
         <div class="cv-service-role">Organization Chair</div>
         <div class="cv-service-main">
           <div class="cv-service-title">IEEE BigComp 2026</div>
