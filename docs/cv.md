@@ -265,7 +265,7 @@ I am currently a professor in the [College of Cyber Security](http://www.jnu.edu
         <div class="cv-service-main">
           <div class="cv-service-title">Security and Communication Networks</div>
         </div>
-        <div class="cv-service-meta">2021-present</div>
+        <div class="cv-service-meta">2021.3-2026.10</div>
       </div>
       <div class="cv-service-item">
         <div class="cv-service-role">Leading Guest Editor</div>
